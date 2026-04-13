@@ -1,8 +1,8 @@
 # 🚀 Two Stack | Grupo 2
 
-Somos o *Two Stack, o **Grupo 2* formado durante o *Bootcamp da Generation Brasil* para o desenvolvimento dos *Projetos Integradores*.
+Somos o **Two Stack**, o grupo 2 formado durante o **Bootcamp da Generation Brasil** para o desenvolvimento dos Projetos Integradores.
 
-Nossa equipe trabalha de forma *colaborativa e rotativa. Os papéis dentro dos projetos **não são fixos: a cada novo projeto os integrantes podem atuar como **Scrum Master, Tester ou Desenvolvedores*, permitindo que todos desenvolvam diferentes habilidades ao longo do bootcamp.
+Nossa equipe trabalha de forma *colaborativa e rotativa. Os papéis dentro dos projetos não são fixos: a cada novo projeto os integrantes podem atuar como Scrum Master, Tester ou Desenvolvedores, permitindo que todos desenvolvam diferentes habilidades ao longo do bootcamp.
 
 ---
 
@@ -50,7 +50,7 @@ Nossa equipe trabalha de forma *colaborativa e rotativa. Os papéis dentro dos p
 
 ## 💡 Sobre o time
 
-Nosso objetivo é desenvolver soluções utilizando *boas práticas de desenvolvimento, **metodologias ágeis* e *trabalho em equipe*.
+Nosso objetivo é desenvolver soluções utilizando boas práticas de desenvolvimento, metodologias ágeis e trabalho em equipe.
 
 Cada projeto desenvolvido durante o bootcamp é uma oportunidade para evoluirmos tecnicamente e fortalecer nossa colaboração como equipe.
 
